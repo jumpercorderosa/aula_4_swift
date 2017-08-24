@@ -11,6 +11,7 @@ import UIKit
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
+    //eh aqui onde todas as telas do app vao estar
     var window: UIWindow?
 
 
